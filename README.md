@@ -21,3 +21,10 @@ A bank wants to identify which customers are likely to make a specific transacti
 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, LightGBM, Matplotlib/Seaborn
+
+
+## How to Run
+```bash
+pip install -r requirements.txt
+jupyter notebook "PRCP-1003-Customer Transaction Prediction.ipynb"
+```
