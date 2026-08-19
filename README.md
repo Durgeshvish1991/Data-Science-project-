@@ -1,3 +1,5 @@
+# Customer Transaction Prediction
+
 ## Problem Statement
 A bank wants to identify which customers are likely to make a specific transaction in the future, regardless of the amount, so the marketing team can target the right customers instead of running broad, low-conversion campaigns.
 
@@ -21,7 +23,6 @@ A bank wants to identify which customers are likely to make a specific transacti
 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, LightGBM, Matplotlib/Seaborn
-
 
 ## How to Run
 ```bash
